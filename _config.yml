@@ -1,1 +1,24 @@
 theme: jekyll-theme-minimal
+
+title: AfterFacts
+description: Para que no nos olvidemos de las predicciones
+site_url: https://afterfacts.es
+baseurl: ''
+google_analytics: 'UA-3511101-1'
+
+author:
+  name: 'Pablo Reyes'
+  email: 'info@pabloreyes.es'
+  github_username:  pabloreyes
+  linkedin_username:  pabloreyesalmagro
+
+# Build settings
+destination: _site
+permalink: /:title/
+markdown: kramdown
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+
+plugins: ['jekyll-target-blank']
