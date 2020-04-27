@@ -9,7 +9,7 @@ id: desempleo
 {: .title}
 # Desempleo
 
-Las predicciones económicas suelen hacerla organizaciones internacionales como el FMI, bancos como BBVA o JPMorgan e inversores reconocidos.
+Las predicciones económicas suelen hacerla organizaciones internacionales como el FMI, bancos como BBVA o JPMorgan e inversores reconocidos, y suelen hacer referencia a crecimiento del PIB y tasas de desempleo.
 
 || Fecha | Predicción | Resultado |
 ||-------|------------|-----------|

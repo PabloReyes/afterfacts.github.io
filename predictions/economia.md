@@ -9,7 +9,10 @@ id: economia
 {: .title}
 # Economía
 
-Las predicciones económicas suelen hacerla organizaciones internacionales como el FMI, bancos como BBVA o JPMorgan e inversores reconocidos.
+![Articulos Covid](/assets/images/pib_proyeccion_bankinter.png){:.img-right}
+Las predicciones económicas suelen hacerla organizaciones internacionales como el FMI, bancos como BBVA o JPMorgan e inversores reconocidos, y suelen hacer referencia a crecimiento del PIB y tasas de desempleo.
+
+En ocasiones estas predicciones se actualizan a medida que van ocurriendo acontecimientos, obviamente haciendo predicciones más precisas a medida que se acerca el horizonte temporal. En el gráfico de la derecha, vemos la [predicción de Bankinter](https://blog.bankinter.com/economia/-/noticia/2020/4/1/informe-estrategia-perspectivas-2t2020-pdf) para crecimiento del PIB en España de Diciembre 2019 vs Marzo 2020. 
 
 || Fecha | Predicción | Resultado |
 ||-------|------------|-----------|
