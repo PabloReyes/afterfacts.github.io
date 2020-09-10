@@ -198,7 +198,7 @@ footer#main-footer{
   td {
     padding: 3px 3px;
     font-size: 0.9em;
-    img{
+    &:first-of-type img{
         width: 25px;
         vertical-align: middle;
     }

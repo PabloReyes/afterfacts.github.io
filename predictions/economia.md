@@ -9,8 +9,8 @@ id: economia
 {: .title}
 # Economía
 
-![Articulos Covid](/assets/images/pib_proyeccion_bankinter.png){:.img-right}
-Las predicciones económicas suelen hacerla organizaciones internacionales como el FMI, bancos como BBVA o JPMorgan e inversores reconocidos, y suelen hacer referencia a crecimiento del PIB y tasas de desempleo.
+![PIB segun Bankinter](/assets/images/pib_proyeccion_bankinter.png){:.img-right}
+Las predicciones económicas suelen hacerla organizaciones internacionales como el FMI, bancos como BBVA o JPMorgan y patronales. Suelen hacer referencia a crecimiento del PIB y tasas de desempleo.
 
 En ocasiones estas predicciones se actualizan a medida que van ocurriendo acontecimientos, obviamente haciendo predicciones más precisas a medida que se acerca el horizonte temporal. En el gráfico de la derecha, vemos la [predicción de Bankinter](https://blog.bankinter.com/economia/-/noticia/2020/4/1/informe-estrategia-perspectivas-2t2020-pdf) para crecimiento del PIB en España de Diciembre 2019 vs Marzo 2020. 
 
@@ -25,3 +25,4 @@ En ocasiones estas predicciones se actualizan a medida que van ocurriendo aconte
 ||6/4/2020|[Credit Suisse says the US economy will shrink 33.5% next quarter, the biggest drop in history](https://www.businessinsider.com/us-economy-shrink-record-second-quarter-recession-coronavirus-credit-suisse-2020-4?IR=T) ||
 ||16/4/2020 |[Morgan Stanley CEO James Gorman sees coronavirus-induced recession lasting through all of 2021](https://www.cnbc.com/2020/04/16/morgan-stanley-ceo-gorman-says-coronavirus-recession-may-last-until-2021.html) ||
 ||26/3/2020 |[Las bolsas se recuperarán antes de lo que muchos prevén y antes de final de año reconquistarán los niveles previos al desplome en Wall Street, según uno de los estrategas más reconocidos de JPMorgan](https://www.businessinsider.es/bolsas-van-recuperar-antes-muchos-preven-608467) ||
+||27/4/2020 |[Global economic output to shrink 4%; U.S. GDP to slump 6.4%](https://www.bloomberg.com/news/articles/2020-04-27/global-6-trillion-slump-may-be-optimistic-bloomberg-economics) |![Bloomberg forecasts](/assets/images/bloomberg_economics_forecasts.png)|
