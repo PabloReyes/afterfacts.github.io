@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 
 title: AfterFacts
 description: Para que no nos olvidemos de las predicciones
-site_url: https://afterfacts.github.io
-baseurl: ''
+site_url: https://blog.pabloreyes.es
+baseurl: /afterfacts.github.io
 google_analytics: 'UA-3511101-1'
 
 author:
