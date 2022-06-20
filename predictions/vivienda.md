@@ -4,12 +4,12 @@ permalink: /predicciones/vivienda
 id: vivienda
 ---
 
-![People COVID](/assets/images/viviendas.png){:.over-article-corner}
+![People COVID]({{'/assets/images/viviendas.png' | relative_url }}){:.over-article-corner}
 
 {: .title}
 # Vivienda
 
-![Articulos Covid](/assets/images/analisis-de-la-evolucion-de-la-oferta.jpg){:.img-right}
+![Articulos Covid]({{'/assets/images/analisis-de-la-evolucion-de-la-oferta.jpg' | relative_url }}){:.img-right}
 Las predicciones sobre el precio de la vivienda suelen proceder de fuentes como Bancos, asociaciones de propietarios, expertos inmobiliarios o portales tipo Idealista o Fotocasa. Éstas suelen venir expresadas como bajadas o subidas del precio medio de la vivienda en términos porcentuales. 
 
 

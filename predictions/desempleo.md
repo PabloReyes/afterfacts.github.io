@@ -4,7 +4,7 @@ permalink: /predicciones/desempleo
 id: desempleo
 ---
 
-![People COVID](/assets/images/desempleo.png){:.over-article-corner}
+![People Desempleo]({{ '/assets/images/desempleo.png' | relative_url }}){:.over-article-corner}
 
 {: .title}
 # Desempleo

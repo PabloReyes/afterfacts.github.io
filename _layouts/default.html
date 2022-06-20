@@ -19,10 +19,10 @@
   <body>
     <div id="page-container">
       <header id="main-header">
-        <a href="/"><h1>AfterFacts</h1></a>
+        <a href="{{'/' | relative_url}}"><h1>AfterFacts</h1></a>
         <nav>
-          <a href="/about">About</a>
-          <a href="/colabora">Colabora</a>
+          <a href="{{ "/about" | relative_url}}">About</a>
+          <a href="{{ "/colabora" | relative_url}}">Colabora</a>
         </nav>
       </header>
       
@@ -35,9 +35,10 @@
 
         <nav id="page-navigation">
             <ul>
-                <li class="{%if page.id == 'covid' or page.id == 'introduction' %} active {% endif %}"><a href="/">COVID-19</a></li>
-                <li class="{%if page.id == 'economia' %} active {% endif %}"><a href="/predicciones/economia">Economía</a></li> 
-                <li class="{%if page.id == 'vivienda' %} active {% endif %}"><a href="/predicciones/vivienda">Vivienda</a></li> 
+                <li class="{%if page.id == 'covid' or page.id == 'introduction' %} active {% endif %}"><a href="{{'/' | relative_url}}">COVID-19</a></li>
+                <li class="{%if page.id == 'economia' %} active {% endif %}"><a href="{{ "/predicciones/economia" | relative_url}}">Economía</a></li>
+                <li class="{%if page.id == 'vivienda' %} active {% endif %}"><a href="{{ "/predicciones/vivienda" | relative_url}}">Vivienda</a></li>
+                <li class="{%if page.id == 'desempleo' %} active {% endif %}"><a href="{{ "/predicciones/desempleo" | relative_url}}">Desempleo</a></li>
             </ul>
         </nav>
 
