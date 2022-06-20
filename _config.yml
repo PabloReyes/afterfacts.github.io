@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: AfterFacts
 description: Para que no nos olvidemos de las predicciones
-site_url: https://afterfacts.es
+site_url: https://afterfacts.github.io
 baseurl: ''
 google_analytics: 'UA-3511101-1'
 
